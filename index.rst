@@ -3,9 +3,7 @@ What Is Bitdefender Central? Securely Activate Your Subscription with a Keycard
 
 Bitdefender Central is your complete security dashboard that helps you stay in control of all your Bitdefender products and devices.Here is guide To activate your subscription, just sign in at central.bitdefender.com, go to My Subscriptions, select Activation Code, and enter the code from your keycard. Within seconds, your protection will be live and ready to install on any device.
 
-.. image:: get.png
-   :alt: Bitdefender Central
-   :target: https://bitdefendercentral.zoholandingpage.com  
+
 
 
 
